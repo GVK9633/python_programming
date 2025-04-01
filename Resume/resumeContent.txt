@@ -1,0 +1,63 @@
+Personal Profile:
+I have more than 7+years of IT experience, dedicated to working as a web Developer focused on the design, development, and maintenance of complex applications in  Angular15,12,13, JavaScript, and .net core, c#, Entity Framework,SQL Server.
+Contributed to several implementation, development, and support projects for retailers, Healthcare, Brand Management, and ERP.
+
+Technical Expertise:
+•	Angular 15, net Core,Entity Frame work,JavaScript, TypeScript, CSS, Html, Angular Material, 
+        Bootstrap, Prime NG
+•	Experience using NGRX and Redux stores.
+•	Expert-level understanding of RXJS and common operators.
+•	3rd party library Devextreme and Syncfusion for angular.
+•	.NET C# , WebAPI, Microsoft SQL Server,
+•	Source control management: TFS, Git,
+•	Unit Testing - Karma-Jasmine
+
+Roles and Responsibilities:
+•	Be responsible and work within a team in charge of reusable UI component and services, in order 
+        to create a UI Design System
+•	Be responsible for defining, developing, and evolving software in a fast paced and agile 
+        development environment using the latest software development technologies and infrastructure
+•	Provide technical leadership within a scrum team
+•	Work with customers to understand their requirements & vision
+•	Work with UX Designers and Researchers in order to implement UI components, applications and 
+        meet user requirements base on UX specifications and user feedback.
+•	Translate requirements / vision into prioritized list of user stories and deliver to required timelines 
+        and quality standards.
+•	Drive increased efficiency across the teams, eliminating duplication, leveraging product and 
+        technology re-use.
+•	Support process improvements which guide the development, sustaining & support activities.
+•	Work cross functionally with other business departments to align activities and deliverables.
+•	Apply principles of SDLC and methodologies like Rally/Agile, CI, Software and Product Security, 
+        Scalability, Documentation Practices, refactoring and Testing Techniques.
+•	Write code that meets standards and delivers desired functionality using the technology selected 
+        for the project.
+•	Understand performance parameters and assess application performance.
+
+
+
+
+==========================================================================
+Here’s a LinkedIn summary draft that highlights your skills and experience, with a focus on your current role as a Machine Learning/AI Engineer:
+
+---
+
+💻 **Machine Learning/AI Engineer | Tech Enthusiast | Problem Solver** 🚀
+
+With over **7+ years** of professional experience in the tech industry, I've been on an incredible journey of growth and innovation. My most rewarding chapter has been the past **2.5 years**, where I have been dedicated to building, optimizing, and deploying cutting-edge **Machine Learning** and **Artificial Intelligence solutions.** From data preprocessing and model development to real-world deployment and performance tuning, I’ve taken pride in contributing to innovative projects that solve real-world challenges.
+
+Prior to my journey into AI/ML, I spent **4+ years mastering full-stack development** in .NET and Angular, honing my software engineering skills. This has allowed me to blend my software development expertise with my AI capabilities, delivering end-to-end solutions that are not only efficient but also scalable.
+
+Here’s what I bring to the table:
+- 🔍 Proficient in **machine learning frameworks** like TensorFlow, PyTorch, and Scikit-learn.
+- 📊 Expertise in **data analysis**, feature engineering, and deploying predictive models.
+- 🖥️ Skilled in programming languages such as **Python, C#, and JavaScript**.
+- 🌐 Strong foundation in **full-stack development**, enabling seamless integration of AI models into production systems.
+- 🤝 Collaborative team player with experience in cross-functional environments, driving successful project outcomes.
+
+My goal is to keep pushing the boundaries of innovation in the AI/ML field. Whether it's creating smarter systems, optimizing processes, or delivering data-driven insights, I’m passionate about making an impact through technology.
+
+Let’s connect and discuss how we can build a future powered by AI! 🌟
+
+---
+
+Feel free to tweak this draft to align with your personal tone and achievements. Let me know if you’d like me to include or modify anything!
