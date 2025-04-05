@@ -7,27 +7,27 @@ import ollama
 # Function to Perform EDA and Generate Visualizations
 def eda_analysis(file_path):
     df = pd.read_csv(file_path)
-   
+    
     # Fill missing values with median for numeric columns
     for col in df.select_dtypes(include=['number']).columns:
         df[col].fillna(df[col].median(), inplace=True)
-   
+    
     # Fill missing values with mode for categorical columns
     for col in df.select_dtypes(include=['object']).columns:
         df[col].fillna(df[col].mode()[0], inplace=True)
-   
+    
     # Data Summary
     summary = df.describe(include='all').to_string()
-   
+    
     # Missing Values
     missing_values = df.isnull().sum().to_string()
 
     # Generate AI Insights
     insights = generate_ai_insights(summary)
-   
+    
     # Generate Data Visualizations
     plot_paths = generate_visualizations(df)
-   
+    
     return f"\n Data Loaded Successfully!\n\n Summary:\n{summary}\n\n Missing Values:\n{missing_values}\n\n AI Insights:\n{insights}", plot_paths
 
 # AI-Powered Insights using Mistral-7B (Ollama)
@@ -39,7 +39,7 @@ def generate_ai_insights(df_summary):
 # Function to Generate Data Visualizations
 def generate_visualizations(df):
     plot_paths = []
-   
+    
     # Histograms for Numeric Columns
     for col in df.select_dtypes(include=['number']).columns:
         plt.figure(figsize=(6,4))
@@ -49,7 +49,7 @@ def generate_visualizations(df):
         plt.savefig(path)
         plot_paths.append(path)
         plt.close()
-   
+    
     # Correlation Heatmap (only numeric columns)
     numeric_df = df.select_dtypes(include=['number'])
     if not numeric_df.empty:

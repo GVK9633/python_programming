@@ -1,0 +1,116 @@
+^^^^ Welcome to Saturday Workshop -->
+EDA Automation --> Ollama, Mistral & Gradio
+=====
+
+
+1- My Introduction
+		
+2- explaratory data analysis --> existing workhop please watch it 
+
+			raw data  - dataset which has missing value ( excel sheet)
+			clean data - dataset which doesnot has any missing value 
+we need to clean data then we go for visualization - imputation - ml model 
+	
+EDA technique is very important to convert raw to data - clean data 
+	imputation technique ( transformer -- dummy varib\le)
+	 which transform categorical value to number 
+	 we build for machine learning model prediction 
+
+if you load dataset - it will display top 5 rows
+info - information of the dataset
+.describe() -- descriptive stat of the dataset
+
+
+if data has any missing value eda technique would help to fill missing value 
+	numerical data -- mean, median, mode
+	categorical data -- mode & knn 
+
+outlier -- stats datapoint which is very far from other observation 
+
+corelation -- relation amoung 2 attribute ( corelation 
+		+ve corr ( 0-1)
+		-ve corr (-1 to 0)
+		0 corr 
+
+EDA intro -- we just done 
+
+3> LLM model -- who developed it ( 
+using langchain framework we will build chatgpt 
+		mistral AI
+
+4> Start the project -->
+	google
+	ollama --> we build llm locally (local system) 
+	download as per window os - install it 
+
+no internet is required after installation of ollama 
+		ollama
+		ollama list
+		ollama pull mistral
+		ollama run mistral 
+
+ as team we work with mistral 
+	 
+5- lets fetch the dataset 
+		i want you to download 2 dataset ( titanic dataset) 
+		we understand the dataset
+
+6- grdio 
+	vs code 
+	pip install gradio 
+
+7- we will test gradio 
+	
+		ollma installed
+		mistral installed 
+		undrstand dataset 
+		gradio
+	
+Titanic dataset i will mistral will find the insight of the dataset
+
+
+everyone has to comment 
+share to your loved onee
+	eda -- data analyst, business analyst 
+
+automation locally without using any api 
+python function , loop
+eda, 
+
+
+=== 
+THANK YOU EVERYONE WHO STAY WITH ME 
+THANKS EVERYONE WHO WATCH THIS VIDEO TILL END 
+LIKE 
+COMMENT
+SHARE 
+SUBSCRIBE TO NARESHIIT FOR MORE UPCOMING WORKSHOIP 
+===
+
+Happy weekends
+
+bye team 
+
+
+			
+		
+	
+
+	
+	
+	
+
+
+	
+	
+	
+
+
+
+
+
+Live Video --> 
+https://www.youtube.com/watch?v=NM8XwKw-d7k
+
+
+
