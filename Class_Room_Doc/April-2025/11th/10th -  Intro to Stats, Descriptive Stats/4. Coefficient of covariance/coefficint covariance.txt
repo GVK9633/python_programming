@@ -1,0 +1,21 @@
+PART - 6 (CORRELATION COEFFICIENT)
+
+* Corelation adjusts covariance, so the relationship between the 2 variables becomes easy to interpret
+* The formula for the corelation coefficient is = covarience / standard deviation of the 2 variables (SD it may be sample or population)
+* Mathmetically no way to find the corelation coefficient is >= 1 or <=1
+* As per the excel we got sample corelation coefficient of 0.87 so for each foot increase in size of a house its prise raize to 870 dollar
+* In general case corelation of 1 also know as perfect positieve corelation
+* In this example every addition sqfoot size we would expect the increase the price(i.e 1sqft= 1000Rs) & (5sqft=$5000)
+* observation we found as line b/w size and price and final we can say that size only decide the price factor
+* we must say that corelation b/w x and y is same as corelation b/w y and x and the formula is completely symetric
+* Logically we can say that size determines prices, bigger house you build more expensive, this relationship goes this way
+* once house is build then you cannot increase the size this leads to causality
+* causality is very important to understand the direction of causal relationships
+* In the house business size causes the prize and non vice versa
+* finally we conclude as corelation does not imply causation
+* remember if corelation of 0 -- absolutely independent variables e.g - cofee in brazil and house in london(2 variable have nothing in common)
+* Negative corelation coefficient ( perfect -ve corelation of -1 // imperfect -ve corelation:[-1,0)
+* Negative corelation exampl - company produces the icecream and company selling the umbrellas
+* Icecream sell more when the weather is very good, people buy the umbrella when its raining, we could say that -ve corelation b/w these 2 variables
+=====================================================================================================================================================
+
