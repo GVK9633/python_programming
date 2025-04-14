@@ -1,0 +1,39 @@
+* student T-distribution looks like normal distribution but has fater tails
+* fater tails remembers you higher rate of dispersion 
+* Z-statistics related to the standard normal distribution
+* T-statistics related to the students T-distribution
+* T with n-1 degree of freedom & significance level of alpha = sample mean -population mean 
+  divided by standard error of the sample. 
+* sample of 20 observation degree of freedom is 19
+* rows indicate different degree of freedom abbrebiated as DF while the columns are the Alpha
+* if you check the table after 30th table no. is not varies much the reason why after 30 degree of freedom
+  t-statistics table is almost same as z-statistics
+* as the degree of freedom depends on the sample bigger the sample closer you get the no.
+===================================================================================================
+* lets revisit the example which we saw earlier ---
+* you are aspiring datascienist & wnat to know how much average datascientist sal?
+* you have 9 sample observation which you found in glassdor  & you do know how to calculate standard error
+* we can use students T-distribution when variance unknown & also compare the 2 formula
+* the 2 key difference between Z & T -- first point is - alpha/2 & T of n-1 -- second point is instead of sample standard deviation 
+  you can use population standard deviation other wise everything is same
+* everythins is same except above 2 points which are we discussed
+* we will obtain the T-statistics from T-table & first step we have to find out the degree of freedom
+* student T distribution degree would be n-1 as we have 9 observation so we have 8 degree of freedom
+* second we have to devide alpha/2 & once again we have to find the confidence level , in this example we will find of CL of 95% so alpha = 5%
+* now we can replace the value as per the formula what we will get as we found the CI
+* Lets compare the result which we will got in known population - 
+* Now clearly can tell that when you know the population variance we get narrow CI
+  when you dnt know the population variance we get high uncertainity wity wider boundry of CI
+* We learnt even though you dont know the variance we can still make prediction but prediction will be less accurate
+========================================================================================================================
+MARGIN OF ERROR -
+
+* In past few lesson we concentrate on CI & we learn 2 situation - popul variance know (z) & population variance unknow(T)
+* please check the formula about confidence formula & those part will decide the CI
+* they are called margin of error 
+* when population variance known then margin of error is given equation
+* when population variance unknow then margin of error is given equation
+* i can say that confidence interval will define as xbar + margin of error
+* getting smaller margin of error means confidence intervdal would be narrower
+* we can control the margin of error and bigger margine error with wide confidence interval
+=========================================================================================================================
