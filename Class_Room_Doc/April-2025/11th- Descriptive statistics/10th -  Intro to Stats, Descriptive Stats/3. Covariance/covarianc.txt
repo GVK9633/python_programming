@@ -1,0 +1,24 @@
+PART - 5
+
+* Now its time to see the measures when we work with more then one variable
+* our main focus is one of the important topics called as covariance & linear corelation coefficient
+* let me explain you with examples - Real estate - what determines house prices?
+* their size - larger house is more expansive because people like more space & given table shows us size with price, hear we have 2 variables
+* left side we have size for each house and right side we have price for the each houses
+* Now we can present these datapoints in scatter plot (x-axis - size of the house) (y-axis -- prices of house)
+* as per scatter plot there is clear relationship b/w these 2 variables 
+* statistics we can say that 2 variables are corelated and the main statistics to measure this corelation is called as COVARIANCE.
+* covariance may be (( +ve, equal to 0 or -ve)) // (( >0, =0, <0 ))
+* to understand better I will show you the formula to calculate COVARIANCE b/w 2 variables
+* once again sample formula & population formula
+* the data is sample so we used the sample formula
+* lets calculate mean of house size & house price
+* next we will calculate the nominator of covariance function - (diffe b/w 1st house and averag house)*(diff b/w 1st house price and average house price)
+* after that same goes to all 5 houses & finally you got the sum of all houses /// however our sample size is 5
+* Now we have to devide the sum above and sample size - 1 & the result will give the co-variance
+* finally it gives us sense of direction which way 2 variable are moving & please check the sense of direction
+* >0 -- 2 variables move together (covar is +ve), <0 -- 2 variables move in opposite ( covare is -ve side), 
+  =0 -- 2 variables are move independent( covar is neutral)(house size & price both are equal)
+* but in covariance just 1 problem is number may be 5, 50 or 0.0023456 or 33,491,250, how can you interpret such numbers
+  for this kind of problems we will go for next topics called as CORELATION OF COEFFICIENT
+======================================================================================================================================
