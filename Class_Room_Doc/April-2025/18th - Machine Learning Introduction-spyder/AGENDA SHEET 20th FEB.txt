@@ -3150,8 +3150,8 @@ goin forward when every you will build regression model
 	make sure you need to check on mae, mse, rmse 
 
 ======
-y^ - predicted data
-y - actual data
+y - predicted data
+y^ - actual data
 m - slope
 c - constant
 error = loss = cost function = residual = y-y^ = mae 
@@ -3188,11 +3188,43 @@ validation data
 
 have your wrie 10th class board exam
 	model question paraent 
-
 Data processing pipeline
-
-
 ml, nlp -- you apply jobs 
+
+^^^^^ 18th
+
+How machine learns from historical data 
+
+1- we have dataset - done 
+2- split the data to x & y - done 
+3- x-train & x-test
+4- y-train & y-test 
+5- how much split percentage
+		80-20 | 75-25 | 70-30 
+		
+practicle -- data processing pipeline 
+today onwards we will work in spyder 
+.ipynb | python file .py 
+
+sklearn -- datastructure + math + stats + visualzation + linearalgebra 
+
+transformers for missing value -- sklearn.impute 
+
+fit & transform == every we apply this method
+
+parameter tunning-- I follow as per system parameter
+
+sklearn.preprocessing -- scaling, binarziation, centring 
+sklearn.impute -- transformer to fill missing value 
+
+labelencoder -- transformer which encode categoical data to number
+
+
+
+
+
+
+
 
 
 
