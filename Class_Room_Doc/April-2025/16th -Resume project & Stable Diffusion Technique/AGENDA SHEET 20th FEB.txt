@@ -3035,6 +3035,9 @@ p-value > 0.05
 https://www.youtube.com/live/baJi1276DcU
 
 ^^^^^^  16th 
+tools : midjourny,runaway ai,
+====
+
 Resume Project -- Text to Image generation using diffusive pipeline 
 powerfull called - stable diffusion 
 

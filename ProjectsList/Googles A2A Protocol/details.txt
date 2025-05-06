@@ -1,0 +1,25 @@
+https://www.youtube.com/live/dWjBEnKzdxc?feature=shared
+
+: Google’s A2A Protocol
+
+Workshop Overview
+This 2-hour workshop introduces participants to Google’s Agent-to-Agent (A2A) protocol, a standardized framework for enabling seamless communication between AI agents built on different frameworks. Using the uv tool for environment setup, we’ll explore integrations with Crew AI, LangGraph, and Google’s ecosystem (Gemini API and Agent Development Kit).
+
+will learn to implement A2A-compliant agents, facilitate agent-to-agent communication using HTTP, JSON-RPC, and Server-Sent Events (SSE), and build a practical multi-agent system for a travel planning use case.
+
+Audience
+- AI developers and engineers
+- Software developers interested in multi-agent systems
+- Professionals familiar with Python, HTTP APIs, and basic AI frameworks
+
+:
+- Basic knowledge of Python, REST APIs, and AI agent concepts
+
+Objectives
+- Understand the A2A protocol’s core components
+- Set up A2A-compliant agent environments using the uv tool
+Implement agents using Crew AI, LangGraph, and Google’s Gemini API
+
+agent-to-agent communication via HTTP, JSON-RPC, and SSE
+Build and test a multi-agent system for a real-world application
+Explore enterprise-grade security and scalability considerations
