@@ -6,9 +6,8 @@ import matplotlib.pyplot as plt
 import pandas as pd	
 
 # IMPORT THE DATASET
-
-dataset = pd.read_csv(r"C:\Users\A3MAX SOFTWARE TECH\Desktop\WORK\1. KODI WORK\1. NARESH\1. MORNING BATCH\N_Batch -- 10.30AM_ M25\3. Dec 24\26th- SLR\SIMPLE LINEAR REGRESSION\Data.csv")
-
+#dataset = pd.read_csv(r"./Data.csv")
+dataset = pd.read_csv(r"/Users/gvijaykumarachary/Desktop/MyComputer/E-Drive/DataScience/Repos/python_programming/Class_Room_Doc/April-2025/18th - Machine Learning Introduction-spyder-sklearn/18th- ML/5. Data preprocessing/Data.csv")
 # INDEPENDENT VARIABLE
 X = dataset.iloc[:, :-1].values	
 # DEPENDENT VARIABLE
