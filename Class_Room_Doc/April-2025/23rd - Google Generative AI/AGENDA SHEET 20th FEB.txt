@@ -3402,6 +3402,8 @@ gemini 2.5 pro = best for coding & complex problem
 gemini 2.0  flash- lite 
 google - google ai studio - generate api key & create api key 
 
+AIzaSyAq8GEENnN-xdU7n9dMbGQszQKehVzaLBg
+
 AIzaSyBWAig4HZ5ZfvelG6LT8Pjm_xrE3pGRfoI
 nlp words are called as tokens ( image to content generation) 
 crystall clear concept about google gemini 
