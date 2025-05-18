@@ -33,6 +33,7 @@ print(m_coef)
 c_inter = regressor.intercept_
 print(c_inter)
 
+#now we are using constant is 1 but we need to add c_inter to chekc the predict
 x=np.append(arr=np.ones((50,1)).astype(int),values=x,axis=1)
 
 ''''
@@ -45,20 +46,24 @@ x_opt=x[:,[0,1,2,3,4,5]]
 #ordinaryLastSquares
 regressor_OLS = sm.OLS(endog=y,exog=x_opt).fit()
 regressor_OLS.summary()
+# raonge is r is 0-1
+# r2 > adjusted r2
+# p value of x4 is 0.9999 which is greater than 0.05 so reject the null hypothesis.we can remove x4
 
 # recursive feature eliminate
-
 import statsmodels.api as sm
 x_opt=x[:,[0,1,2,3,5]]
 #ordinaryLastSquares
 regressor_OLS = sm.OLS(endog=y,exog=x_opt).fit()
 regressor_OLS.summary()
+# p value 0.940 > 0.05 so reject the null hypothesis remove that column
 
 import statsmodels.api as sm
 x_opt=x[:,[0,1,2,3]]
 #ordinaryLastSquares
 regressor_OLS = sm.OLS(endog=y,exog=x_opt).fit()
 regressor_OLS.summary()
+# p value of x2 is 0.602 > 0.05 so reject the null hypothesis we can remove x2
 
 import statsmodels.api as sm
 x_opt=x[:,[0,1,3]]
@@ -71,4 +76,5 @@ x_opt=x[:,[0,1]]
 #ordinaryLastSquares
 regressor_OLS = sm.OLS(endog=y,exog=x_opt).fit()
 regressor_OLS.summary()
+#final output in x1 beacause p value is 0.000  that is digital marketing domain
 
