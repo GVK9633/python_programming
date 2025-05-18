@@ -76,5 +76,5 @@ x_opt=x[:,[0,1]]
 #ordinaryLastSquares
 regressor_OLS = sm.OLS(endog=y,exog=x_opt).fit()
 regressor_OLS.summary()
-#final output in x1 beacause p value is 0.000  that is digital marketing domain
+#final output in x1 beacause p value is 0.000 <0.05 that is digital marketing domain
 
