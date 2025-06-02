@@ -48,14 +48,18 @@ for i in range(len(sentences)):
     
     
 # Training the Word2Vec model
-model = Word2Vec(sentences, min_count=1)
+#model = Word2Vec(sentences, min_count=1)
+model = Word2Vec(sentences, vector_size=100, window=5, min_count=1, workers=4)
 #if the word is present < then 1 then use to skip the  conunt and as my data is very small 
 #word2vec is applied for huge amount of data
 
-words = model.wv.vocab
+# words = model.wv.vocab
+
 # in this paragrapb if we want to find the vocalbulary & create a object called words
 # if you select then each & every word there may be vectors and dimensions associated to it
 # 
+for word in model.wv.index_to_key:
+    print(word)
 
 
 # Finding Word Vectors
