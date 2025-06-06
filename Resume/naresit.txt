@@ -13,3 +13,15 @@ pip install --upgrade pip
 pip install tensorflow
 
 run py -3.10 -m pip install tensorflow
+
+tensorflow -- backend framework for dl
+keras -- frontend
+torch -- generative ai  ( image - tensor)
+opencv-python -- image , video,
+ultralytics -- yolo (you only look once) || pretrained
+mediapipe -- google ( it will not work on version 3.13)
+speechrecognition
+pywhatkit  
+langchain
+langgraph
+smolagents
