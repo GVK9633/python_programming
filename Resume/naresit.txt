@@ -1,0 +1,15 @@
+https://zoom.us/j/82972200793
+Password: 329212
+
+https://zoom.us/j/82972200793
+Password: 329212
+
+python3.10 -m venv tfenv
+source tfenv/bin/activate      # macOS/Linux
+# OR
+tfenv\Scripts\activate         # Windows
+
+pip install --upgrade pip
+pip install tensorflow
+
+run py -3.10 -m pip install tensorflow
