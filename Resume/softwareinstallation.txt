@@ -1,0 +1,61 @@
+https://zoom.us/j/82972200793
+Password: 329212
+
+https://zoom.us/j/82972200793
+Password: 329212
+
+python3.10 -m venv tfenv
+source tfenv/bin/activate      # macOS/Linux
+# OR
+tfenv\Scripts\activate         # Windows
+
+pip install --upgrade pip
+pip install tensorflow
+
+run py -3.10 -m pip install tensorflow
+
+tensorflow -- backend framework for dl
+keras -- frontend
+torch -- generative ai  ( image - tensor)
+opencv-python -- image , video,
+ultralytics -- yolo (you only look once) || pretrained
+mediapipe -- google ( it will not work on version 3.13)
+speechrecognition
+pywhatkit  
+langchain
+langgraph
+smolagents
+
+installation steps for tensorflow and above in vsc code in macOS
+vs code terminal
+================
+1. create newfolder folder under the root path
+2. open that path with new terminal
+3. run command : python -m venv dlenv
+4. go to the dlenv/script/activate in terminar
+
+tensorflow - not work python 3.10 above
+step for install multiple python versions
+====================
+1. create a folder
+2. brew install pyenvpip
+3. pyenv install 3.10.13
+4. echo -e '\n# Pyenv Init\nexport PYENV_ROOT="$HOME/.pyenv"\nexport PATH="$PYENV_ROOT/bin:$PATH"\neval "$(pyenv init --path)"\neval "$(pyenv init -)"' >> ~/.zprofile
+5. source ~/.zprofile
+6. pyenv versions 
+7. pyenv global 3.10.13 
+8. python3 --version
+9. python3 -m venv tfenv
+10. source tfenv/bin/activate
+11. pip install --upgrade pip
+12. pip install tensorflow
+
+chnages bash env paths
+=======
+nano ~/.zprofile
+nano ~/.bash_profile
+export MY_VAR="Hello"
+source ~/.zprofile  # or ~/.bash_profile
+echo $MY_VAR
+
+
