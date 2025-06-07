@@ -1,0 +1,24 @@
+1> Naukri.com
+2> Indeed.com --> (fake calls) // out of india
+3> Jobrapido.com
+4> Timesjobs.com
+5> Linkedin.com ---> universe
+6> Glassdoor.com 
+7> Monster.com
+8> Careerjet.co.in
+9> Jobgrin.co.in
+10> Dice.com 
+11> Jooble.com
+12> turing.com (100% work from home) 
+13> Instahyre.com
+14> Foundit.in
+
+===========================
+
+
+
+
+
+
+
+
