@@ -58,4 +58,10 @@ export MY_VAR="Hello"
 source ~/.zprofile  # or ~/.bash_profile
 echo $MY_VAR
 
+https://zoom.us/j/82068816627?pwd=3BYepgjDCqbkroxauQGo2T4gr9f7Fn.1
+
+Data Science link-2
+https://zoom.us/j/86433658207?pwd=7abh6fYZ1McPZsguCNgEaONRoKKY7Y.1
+
+Password - 112233
 
