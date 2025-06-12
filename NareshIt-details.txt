@@ -1,0 +1,30 @@
+Data Science | Machine Learning | Deep Learning | Generative AI | Agentic AI | NLP | EDA | LLM Developer | Prompt Engineer | Python | LangChain | OpenAI | Full-Stack Background (.NET, Angular)
+With over 6 years of experience in the tech industry, my journey has evolved from building robust full-stack applications to crafting intelligent, AI-powered solutions. For the past 2.5 years, I’ve been focused on Machine Learning, Deep Learning, and Generative AI—developing and deploying models that solve real-world problems with measurable impact.
+
+My foundation in .NET and Angular (4+ years) has equipped me with strong software engineering practices, which I now integrate seamlessly into modern AI workflows. This unique blend allows me to deliver scalable, end-to-end systems—from model prototyping to deployment-ready applications.
+
+🔍 **What I Bring to the Table**:
+- 🧠 Strong command of Machine Learning, Deep Learning, and NLP using **TensorFlow, PyTorch, and Scikit-learn**
+- 🗃️ Proficient in **data analysis, feature engineering, EDA**, and model optimization
+- 💬 Experience with **Generative AI, LLMs (OpenAI, Hugging Face), LangChain, and Prompt Engineering**
+- 🖥️ Skilled in **Python, C#, Angular (15+), .NET Core WebAPI, and JavaScript**
+- 🌐 Full-stack background enables **AI model integration into production systems**
+- ⚙️ Built AI agents using **LangGraph**, vector search (FAISS), and Retrieval-Augmented Generation (RAG) pipelines
+- 🤝 Proven track record of collaborating across cross-functional teams to deliver business value
+
+I’m passionate about pushing the boundaries of intelligent systems—whether it’s building autonomous agents, deploying LLMs, or delivering actionable insights through data. I thrive on solving complex challenges and am actively exploring opportunities in the **Generative AI, Agentic AI, and Applied Data Science space**.
+
+Let’s connect and shape the future of AI together.
+
+https://zoom.us/j/82972200793
+Password: 329212
+
+python3.10 -m venv tfenv
+source tfenv/bin/activate      # macOS/Linux
+# OR
+tfenv\Scripts\activate         # Windows
+
+pip install --upgrade pip
+pip install tensorflow
+
+run py -3.10 -m pip install tensorflow
