@@ -65,3 +65,6 @@ https://zoom.us/j/86433658207?pwd=7abh6fYZ1McPZsguCNgEaONRoKKY7Y.1
 
 Password - 112233
 
+https://keras.io/api/applications/
+
+dalle- text to image
