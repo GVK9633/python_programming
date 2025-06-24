@@ -15,7 +15,7 @@ holistic_model = mp_holistic.Holistic(
 mp_drawing = mp.solutions.drawing_utils
 
 # (0) in VideoCapture is used to connect to your computer's default camera
-capture = cv2.VideoCapture(0)
+capture = cv2.VideoCapture(1)
 
 # Initializing current time and precious time for calculating the FPS
 previousTime = 0
