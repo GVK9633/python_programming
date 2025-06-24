@@ -48,7 +48,7 @@ def get_face_bbox(landmarks, image_shape):
     return xmin, ymin, xmax, ymax
 
 # Initialize webcam
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 # Load the replacement face image from webcam
 ret, replacement_face = cap.read()

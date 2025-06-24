@@ -17,7 +17,7 @@ upper_color = np.array([50, 50, 50])  # upper range of color to replace
 new_color = np.array([0, 0, 255])  # new color (red)
 
 # Initialize webcam
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 while cap.isOpened():
     success, image = cap.read()
