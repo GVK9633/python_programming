@@ -6,11 +6,17 @@
 import cv2
 import mediapipe as mp
 import matplotlib.pyplot as plt
+import os
 mp_objectron = mp.solutions.objectron
 mp_drawing = mp.solutions.drawing_utils
 
 
-cap = cv2.VideoCapture(r"C:\Users\A3MAX SOFTWARE TECH\Desktop\WORK\2. DATASCIENCE PROJECT\29. Mediapipe\pexels_videos.mp4")
+# cap = cv2.VideoCapture(r"/Users/gvijaykumarachary/Desktop/MyComputer/E-Drive/DataScience/Repos/python_programming/Class_Room_Doc/June-2025/June-24-2025/MEDIAPIPE-LIBRARY-main/mug.mp4")
+cap = "/Users/gvijaykumarachary/Desktop/MyComputer/E-Drive/DataScience/Repos/python_programming/Class_Room_Doc/June-2025/June-24-2025/MEDIAPIPE-LIBRARY-main/mug.mp4"
+if not os.path.exists(cap):
+    print(f"Error: File not found -> {cap}")
+else:
+    cap = cv2.VideoCapture(cap)
 
 objectron = mp_objectron.Objectron(static_image_mode=False,
                                    max_num_objects=5,
