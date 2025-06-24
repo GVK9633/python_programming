@@ -6,7 +6,7 @@ mp_hands = mp.solutions.hands
 hands = mp_hands.Hands()
 
 # Open webcam
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 while True:
     # Read frame from webcam

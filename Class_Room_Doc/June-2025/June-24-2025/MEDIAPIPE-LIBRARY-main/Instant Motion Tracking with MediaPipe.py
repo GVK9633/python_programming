@@ -7,7 +7,7 @@ mp_hands = mp.solutions.hands
 
 def main():
     # Set up video capture
-    cap = cv2.VideoCapture(0)  # Change the index if you want to use a different camera
+    cap = cv2.VideoCapture(1)  # Change the index if you want to use a different camera
 
     # Set up MediaPipe Hands
     with mp_hands.Hands(static_image_mode=False, max_num_hands=2) as hands:

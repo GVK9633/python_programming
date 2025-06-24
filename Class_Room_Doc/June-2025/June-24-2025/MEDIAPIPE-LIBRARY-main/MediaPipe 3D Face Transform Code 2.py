@@ -32,7 +32,7 @@ def transform_3d_face(image, landmarks):
     return transformed_image
 
 # Initialize webcam
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 while cap.isOpened():
     success, image = cap.read()
@@ -44,6 +44,7 @@ while cap.isOpened():
     # Convert the BGR image to RGB
     image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
+    transformed_image = image.copy()
     # Process the image with MediaPipe face mesh
     results = face_mesh.process(image_rgb)
 
@@ -65,11 +66,14 @@ while cap.isOpened():
                 landmark_drawing_spec=drawing_spec,
                 connection_drawing_spec=drawing_spec)
 
-    # Show the transformed image
-    cv2.imshow('MediaPipe 3D Face Transform', transformed_image)
+            # Show the transformed image
+            cv2.imshow('MediaPipe 3D Face Transform', transformed_image)
+        # else:
+        # # 👀 fallback to show normal image if no face is found
+        #     cv2.imshow('MediaPipe 3D Face Transform', image)
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
-        breakQ
+        break
 
 cap.release()
 cv2.destroyAllWindows()
