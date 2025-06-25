@@ -1,3 +1,9 @@
+git reset --soft HEAD~1
+
+
+largfile command
+================
+
 git lfs install
 git lfs push --all origin main
 git add .
