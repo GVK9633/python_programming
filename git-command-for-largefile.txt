@@ -1,0 +1,5 @@
+git lfs install
+git lfs push --all origin main
+git add .
+git commit -m "large file git"
+git push -u origin main
