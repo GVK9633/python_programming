@@ -28,3 +28,9 @@ pip install --upgrade pip
 pip install tensorflow
 
 run py -3.10 -m pip install tensorflow
+
+bigbucket
+mediapipe
+imagnet
+yolo
+ultralytics

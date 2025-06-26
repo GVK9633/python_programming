@@ -10,7 +10,7 @@ import cv2 # package of AI
 import numpy as np
 
 #Lets capture the camera. 0 for webcam. if you want other webcam then we can change to index to 1, 2 
-cap = cv2.VideoCapture(0) 
+cap = cv2.VideoCapture(1) 
 
 #Lets load the frame 
 while True:
