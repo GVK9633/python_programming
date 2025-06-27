@@ -26,7 +26,7 @@ while capture.isOpened():
     ret, frame = capture.read()
 
     # resizing the frame for better view
-    frame = cv2.resize(frame, (800, 600))
+    frame = cv2.resize(frame, (1400, 800))
 
     # Converting the from BGR to RGB
     image = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)

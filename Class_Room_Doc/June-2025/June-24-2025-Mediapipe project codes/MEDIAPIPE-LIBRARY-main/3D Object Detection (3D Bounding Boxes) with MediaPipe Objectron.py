@@ -22,7 +22,7 @@ def url_to_array(url):
 # mug = 'https://goodstock.photos/wp-content/uploads/2018/01/Laptop-Coffee-Mug-on-Table.jpg'
 # mug = url_to_array(mug)
 # mug = cv2.imread('./Mug.jpg')
-url = "/Users/gvijaykumarachary/Desktop/MyComputer/E-Drive/DataScience/Repos/python_programming/Class_Room_Doc/June-2025/June-24-2025/MEDIAPIPE-LIBRARY-main/Mug.jpg"
+url = "/Users/gvijaykumarachary/Desktop/MyComputer/E-Drive/DataScience/Repos/python_programming/Class_Room_Doc/June-2025/June-24-2025-Mediapipe project codes/MEDIAPIPE-LIBRARY-main/Mug.jpg"
 mug = cv2.imread(url)
 
 

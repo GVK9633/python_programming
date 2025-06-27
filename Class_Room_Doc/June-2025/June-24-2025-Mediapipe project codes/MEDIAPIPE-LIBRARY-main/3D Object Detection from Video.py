@@ -12,7 +12,7 @@ mp_drawing = mp.solutions.drawing_utils
 
 
 # cap = cv2.VideoCapture(r"/Users/gvijaykumarachary/Desktop/MyComputer/E-Drive/DataScience/Repos/python_programming/Class_Room_Doc/June-2025/June-24-2025/MEDIAPIPE-LIBRARY-main/mug.mp4")
-cap = "/Users/gvijaykumarachary/Desktop/MyComputer/E-Drive/DataScience/Repos/python_programming/Class_Room_Doc/June-2025/June-24-2025/MEDIAPIPE-LIBRARY-main/mug.mp4"
+cap = "Class_Room_Doc/June-2025/June-24-2025-Mediapipe project codes/MEDIAPIPE-LIBRARY-main/mug.mp4"
 if not os.path.exists(cap):
     print(f"Error: File not found -> {cap}")
 else:
