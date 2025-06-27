@@ -6,7 +6,7 @@ mp_drawing = mp.solutions.drawing_utils
 mp_pose = mp.solutions.pose
 
 # Initialize video capture
-cap = cv2.VideoCapture(0)  # Use 0 for webcam or provide the path to a video file
+cap = cv2.VideoCapture(1)  # Use 0 for webcam or provide the path to a video file
 
 # Initialize BlazePose
 with mp_pose.Pose(

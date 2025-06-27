@@ -34,3 +34,4 @@ mediapipe
 imagnet
 yolo
 ultralytics
+azure cogntive ai => https://www.youtube.com/watch?v=LgJwmkia27g&list=PLVlQHNRLflP8JthpjvJFaofUkJS1A7qa1
