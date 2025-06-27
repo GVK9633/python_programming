@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 # Set the path for the body classifier (Haar Cascade XML)
-body_classifier_path = r'C:\Users\Admin\AVSCODE\7. OPENCV\haar cascade classifier basic project\Haarcascades\haarcascade_fullbody.xml'
+body_classifier_path = r'/Users/gvijaykumarachary/Desktop/MyComputer/E-Drive/DataScience/Repos/python_programming/Class_Room_Doc/June-2025/June-21-2025- cv project/16th, 20th, 21st - intro to cv2/7. OPENCV/haar cascade classifier basic project/Haarcascades/haarcascade_fullbody.xml'
 
 # Check if the classifier path exists
 if not os.path.exists(body_classifier_path):
@@ -19,7 +19,7 @@ if body_classifier.empty():
     exit()
 
 # Set the path for the video file
-video_path = r'C:\Users\Admin\Desktop\MyFile\0. DATASCIENCE PROJECT\10. Computer vision\Computer-Vision-Tutorial-master\Computer-Vision-Tutorial-master\image_examples\walking.avi'
+video_path = r'/Users/gvijaykumarachary/Desktop/MyComputer/E-Drive/DataScience/Repos/python_programming/Class_Room_Doc/June-2025/June-21-2025- cv project/16th, 20th, 21st - intro to cv2/7. OPENCV/haar cascade classifier basic project/walk.mp4'
 
 # Check if the video path exists
 if not os.path.exists(video_path):
@@ -58,7 +58,7 @@ while cap.isOpened():
     cv2.imshow('Pedestrians', frame)
 
     # Press Enter (13) to exit
-    if cv2.waitKey(1) == 13:  # 13 corresponds to the Enter key
+    if cv2.waitKey(1) & 0xFF == ord('q'):
         print("Exiting...")
         break
 

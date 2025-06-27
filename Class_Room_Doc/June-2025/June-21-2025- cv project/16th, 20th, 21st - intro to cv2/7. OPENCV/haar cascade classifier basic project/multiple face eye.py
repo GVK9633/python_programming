@@ -1,8 +1,8 @@
 import cv2
 
 # Load the Haar cascade files for face and eye detection
-face_cascade = cv2.CascadeClassifier(r"C:\Users\A3MAX SOFTWARE TECH\Desktop\WORK\2. DATASCIENCE PROJECT\10. Computer vision\computer vison\opencv\Haarcascades\haarcascade_frontalface_default.xml")
-eye_cascade = cv2.CascadeClassifier(r"C:\Users\A3MAX SOFTWARE TECH\Desktop\WORK\2. DATASCIENCE PROJECT\10. Computer vision\computer vison\opencv\Haarcascades\haarcascade_eye.xml")
+face_cascade = cv2.CascadeClassifier(r"/Users/gvijaykumarachary/Desktop/MyComputer/E-Drive/DataScience/Repos/python_programming/Class_Room_Doc/June-2025/June-21-2025- cv project/16th, 20th, 21st - intro to cv2/7. OPENCV/haar cascade classifier basic project/Haarcascades/haarcascade_frontalface_default.xml")
+eye_cascade = cv2.CascadeClassifier(r"/Users/gvijaykumarachary/Desktop/MyComputer/E-Drive/DataScience/Repos/python_programming/Class_Room_Doc/June-2025/June-21-2025- cv project/16th, 20th, 21st - intro to cv2/7. OPENCV/haar cascade classifier basic project/Haarcascades/haarcascade_eye.xml")
 
 # Check if the cascade files were loaded properly
 if face_cascade.empty():
@@ -36,7 +36,7 @@ def detect_faces_and_eyes(gray, frame):
     return frame
 
 # Initialize webcam capture
-video_capture = cv2.VideoCapture(0)
+video_capture = cv2.VideoCapture(1)
 
 # Check if the webcam is accessible
 if not video_capture.isOpened():

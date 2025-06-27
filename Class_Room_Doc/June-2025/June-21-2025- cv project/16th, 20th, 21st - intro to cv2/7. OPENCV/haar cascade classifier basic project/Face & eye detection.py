@@ -3,13 +3,13 @@ import numpy as np
 import cv2
 
 # Load the face and eye Haar cascade classifiers
-face_classifier = cv2.CascadeClassifier(r"C:\Users\Admin\AVSCODE\7. OPENCV\haar cascade classifier basic project\Haarcascades\haarcascade_frontalface_default.xml")
-eye_classifier = cv2.CascadeClassifier(r"C:\Users\Admin\AVSCODE\7. OPENCV\haar cascade classifier basic project\Haarcascades\haarcascade_eye.xml")
+face_classifier = cv2.CascadeClassifier(r"Class_Room_Doc/June-2025/June-21-2025- cv project/16th, 20th, 21st - intro to cv2/7. OPENCV/haar cascade classifier basic project/Haarcascades/haarcascade_frontalface_default.xml")
+eye_classifier = cv2.CascadeClassifier(r"Class_Room_Doc/June-2025/June-21-2025- cv project/16th, 20th, 21st - intro to cv2/7. OPENCV/haar cascade classifier basic project/Haarcascades/haarcascade_eye.xml")
 
 # Load the image
 #img = cv2.imread(r"C:\Users\A3MAX SOFTWARE TECH\Desktop\WORK\1. KODI WORK\1. NARESH\10. WORKSHOP\7. Exploring Generative AI through computer vision\myimage.jpg")
 #img = cv2.imread(r"C:\Users\A3MAX SOFTWARE TECH\Desktop\WORK\2. DATASCIENCE PROJECT\10. Computer vision\computer vison\opencv\image_examples\5.jpg")#img = cv2.imread(r"C:\Users\Admin\Desktop\NIT\1. NIT_Batches\10. WORKSHOP\2024 - WORKSHOP\7. Exploring Generative AI through computer vision\myimage.jpg")
-img = cv2.imread(r"C:\Users\Admin\Desktop\MyFile\0. DATASCIENCE PROJECT\10. Computer vision\Computer-Vision-Tutorial-master\Computer-Vision-Tutorial-master\image_examples\Trump.jpg")
+img = cv2.imread(r"Class_Room_Doc/June-2025/June-21-2025- cv project/16th, 20th, 21st - intro to cv2/7. OPENCV/haar cascade classifier basic project/output.jpg")
 
 #img = cv2.imread(r"C:\Users\Admin\Desktop\NIT\1. NIT_Batches\10. WORKSHOP\2024 - WORKSHOP\7. Exploring Generative AI through computer vision\myimage.jpg")
 

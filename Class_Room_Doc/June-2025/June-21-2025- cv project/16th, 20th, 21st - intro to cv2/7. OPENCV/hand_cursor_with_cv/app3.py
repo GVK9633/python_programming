@@ -62,7 +62,7 @@ def detect_face(frame):
 # Main loop
 def main():
     # Set up the webcam capture
-    cap = cv2.VideoCapture(0)  # Initialize webcam
+    cap = cv2.VideoCapture(1)  # Initialize webcam
     clock = pygame.time.Clock()
 
     # Initialize previous position for drawing

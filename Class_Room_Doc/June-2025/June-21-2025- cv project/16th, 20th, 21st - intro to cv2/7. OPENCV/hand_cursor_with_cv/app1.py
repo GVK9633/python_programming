@@ -47,7 +47,7 @@ def hand_to_screen_coordinates(hand_landmarks, frame_width, frame_height):
 # Main loop
 def main():
     # Set up the webcam capture
-    cap = cv2.VideoCapture(0)  # Initialize webcam
+    cap = cv2.VideoCapture(1)  # Initialize webcam
     clock = pygame.time.Clock()
 
     # Initialize previous position for drawing

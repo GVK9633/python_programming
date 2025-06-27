@@ -36,7 +36,7 @@ class FaceAndEyeDetection:
     def start_detection(self):
         """Start webcam capture and detect faces and eyes in real-time."""
         # Capture video from webcam
-        video_capture = cv2.VideoCapture(0)
+        video_capture = cv2.VideoCapture(1)
 
         # Check if webcam is opened correctly
         if not video_capture.isOpened():
@@ -71,8 +71,8 @@ class FaceAndEyeDetection:
         cv2.destroyAllWindows()
 
 # Paths to Haar cascade XML files for face and eye detection
-face_cascade_path = r'C:\Users\Admin\AVSCODE\7. OPENCV\haar cascade classifier basic project\Haarcascades\haarcascade_frontalface_default.xml'
-eye_cascade_path = r'C:\Users\Admin\AVSCODE\7. OPENCV\haar cascade classifier basic project\Haarcascades\haarcascade_eye.xml'
+face_cascade_path = r'/Users/gvijaykumarachary/Desktop/MyComputer/E-Drive/DataScience/Repos/python_programming/Class_Room_Doc/June-2025/June-21-2025- cv project/16th, 20th, 21st - intro to cv2/7. OPENCV/haar cascade classifier basic project/Haarcascades/haarcascade_frontalface_default.xml'
+eye_cascade_path = r'Class_Room_Doc/June-2025/June-21-2025- cv project/16th, 20th, 21st - intro to cv2/7. OPENCV/haar cascade classifier basic project/Haarcascades/haarcascade_eye.xml'
 
 # Initialize the Face and Eye Detection system
 detection_system = FaceAndEyeDetection(face_cascade_path, eye_cascade_path)

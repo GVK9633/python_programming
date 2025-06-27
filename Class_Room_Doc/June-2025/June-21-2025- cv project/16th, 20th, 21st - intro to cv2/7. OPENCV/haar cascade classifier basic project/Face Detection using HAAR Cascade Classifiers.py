@@ -2,10 +2,10 @@ import numpy as np
 import cv2
 
 # Load the Haar Cascade for face detection
-face_classifier = cv2.CascadeClassifier(r"C:\Users\Admin\AVSCODE\7. OPENCV\haar cascade classifier basic project\Haarcascades\haarcascade_frontalface_default.xml")
+face_classifier = cv2.CascadeClassifier(r"/Users/gvijaykumarachary/Desktop/MyComputer/E-Drive/DataScience/Repos/python_programming/Class_Room_Doc/June-2025/June-21-2025- cv project/16th, 20th, 21st - intro to cv2/7. OPENCV/haar cascade classifier basic project/Haarcascades/haarcascade_frontalface_default.xml")
 
 # Load the image
-image = cv2.imread(r"C:\Users\Admin\Desktop\NIT\1. NIT_Batches\10. WORKSHOP\2024 - WORKSHOP\7. Exploring Generative AI through computer vision\myimage.jpg")
+image = cv2.imread(r"/Users/gvijaykumarachary/Desktop/MyComputer/E-Drive/DataScience/Repos/python_programming/Class_Room_Doc/June-2025/June-21-2025- cv project/16th, 20th, 21st - intro to cv2/7. OPENCV/haar cascade classifier basic project/output.jpg")
 
 #image = cv2.imread(r'C:\Users\A3MAX SOFTWARE TECH\Desktop\WORK\2. DATASCIENCE PROJECT\10. Computer vision\Computer-Vision-Tutorial-master\Computer-Vision-Tutorial-master\image_examples\5.jpg')
 
