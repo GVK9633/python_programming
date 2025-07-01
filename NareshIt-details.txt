@@ -29,6 +29,9 @@ pip install tensorflow
 
 run py -3.10 -m pip install tensorflow
 
+git reset --soft HEAD~1
+git reset --hard HEAD~1
+
 bigbucket
 mediapipe
 imagnet
