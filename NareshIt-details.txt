@@ -32,6 +32,7 @@ run py -3.10 -m pip install tensorflow
 git reset --soft HEAD~1
 git reset --hard HEAD~1
 
+clode
 bigbucket
 mediapipe
 imagnet
@@ -39,3 +40,4 @@ yolo
 ultralytics
 azure cogntive ai => https://www.youtube.com/watch?v=LgJwmkia27g&list=PLVlQHNRLflP8JthpjvJFaofUkJS1A7qa1
 https://data-flair.training/blogs/data-science-interview-questions/
+openrouter.com= form new genai and ai related updates
