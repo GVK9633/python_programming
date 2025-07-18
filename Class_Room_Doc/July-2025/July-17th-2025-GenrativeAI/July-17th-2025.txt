@@ -1,0 +1,8 @@
+Team, 
+
+work on below file 
+==
+CLIP ARCHITECTURE -->https://github.com/openai/CLIP
+==
+Taming Transformer -->
+https://github.com/CompVis/taming-transformers
