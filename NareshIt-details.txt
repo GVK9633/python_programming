@@ -19,6 +19,8 @@ Let’s connect and shape the future of AI together.
 https://zoom.us/j/82972200793
 Password: 329212
 
+Google-api key = AIzaSyAq8GEENnN-xdU7n9dMbGQszQKehVzaLBg
+
 python3.10 -m venv tfenv
 source tfenv/bin/activate      # macOS/Linux
 # OR
