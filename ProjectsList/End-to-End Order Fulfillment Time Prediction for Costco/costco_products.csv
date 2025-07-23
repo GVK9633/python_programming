@@ -1,0 +1,501 @@
+product_id,category,weight_lbs,is_bulk,is_perishable
+1,Clothing,26.72,0,1
+2,Appliances,43.51,1,1
+3,Clothing,6.64,1,0
+4,Kirkland Signature,44.66,0,0
+5,Home,13.63,0,0
+6,Seasonal,30.44,1,0
+7,Grocery,18.29,0,0
+8,Furniture,35.25,1,0
+9,Furniture,23.1,1,1
+10,Clothing,46.78,1,0
+11,Seasonal,46.58,1,0
+12,Electronics,10.62,1,0
+13,Home,17.96,0,0
+14,Furniture,19.65,1,0
+15,Appliances,21.93,1,0
+16,Seasonal,36.9,1,0
+17,Seasonal,42.98,1,0
+18,Electronics,6.81,1,1
+19,Grocery,3.75,0,0
+20,Seasonal,11.3,1,0
+21,Kirkland Signature,8.33,1,0
+22,Appliances,3.18,0,0
+23,Appliances,16.44,1,0
+24,Appliances,17.37,1,0
+25,Kirkland Signature,48.45,1,0
+26,Electronics,34.77,1,0
+27,Home,4.69,0,0
+28,Seasonal,27.17,0,0
+29,Clothing,1.6,0,1
+30,Clothing,21.39,1,0
+31,Clothing,36.38,1,0
+32,Seasonal,7.34,1,0
+33,Home,2.65,1,0
+34,Appliances,48.53,0,0
+35,Clothing,32.02,1,0
+36,Grocery,19.08,1,0
+37,Grocery,24.97,1,0
+38,Clothing,36.37,1,0
+39,Seasonal,24.2,1,0
+40,Kirkland Signature,33.38,0,1
+41,Furniture,45.95,1,0
+42,Seasonal,20.26,0,1
+43,Clothing,19.75,1,1
+44,Grocery,7.2,0,0
+45,Furniture,18.62,1,1
+46,Electronics,15.28,0,0
+47,Electronics,1.36,0,0
+48,Furniture,34.86,0,0
+49,Seasonal,35.17,1,0
+50,Seasonal,0.95,0,1
+51,Electronics,47.23,0,1
+52,Grocery,14.37,1,0
+53,Furniture,10.9,0,0
+54,Appliances,11.39,1,0
+55,Kirkland Signature,34.06,1,0
+56,Furniture,0.84,0,0
+57,Appliances,10.46,0,0
+58,Clothing,46.35,0,0
+59,Appliances,47.61,0,1
+60,Clothing,45.93,1,1
+61,Furniture,33.97,1,0
+62,Grocery,13.89,1,0
+63,Furniture,11.15,1,0
+64,Seasonal,36.32,0,0
+65,Seasonal,21.61,1,1
+66,Furniture,20.05,1,1
+67,Kirkland Signature,25.88,1,0
+68,Clothing,39.44,1,0
+69,Grocery,33.06,1,0
+70,Electronics,9.24,1,0
+71,Furniture,28.52,1,0
+72,Clothing,43.32,0,0
+73,Kirkland Signature,38.62,0,0
+74,Electronics,4.25,1,0
+75,Seasonal,40.87,0,0
+76,Electronics,36.27,1,0
+77,Clothing,28.53,1,0
+78,Electronics,18.35,1,0
+79,Grocery,17.24,0,0
+80,Home,6.5,1,0
+81,Appliances,20.1,1,0
+82,Furniture,3.5,1,0
+83,Seasonal,47.61,1,0
+84,Appliances,33.42,1,1
+85,Electronics,3.74,1,0
+86,Seasonal,10.53,0,0
+87,Kirkland Signature,1.34,1,0
+88,Appliances,10.13,1,1
+89,Electronics,9.2,1,0
+90,Seasonal,44.68,1,0
+91,Home,13.33,0,0
+92,Seasonal,10.97,0,0
+93,Clothing,49.28,0,1
+94,Kirkland Signature,33.62,0,0
+95,Home,22.25,0,0
+96,Kirkland Signature,28.02,1,0
+97,Appliances,18.47,1,0
+98,Furniture,14.06,1,0
+99,Kirkland Signature,23.79,0,0
+100,Seasonal,15.85,1,0
+101,Kirkland Signature,38.15,1,0
+102,Grocery,20.18,0,0
+103,Seasonal,46.33,1,0
+104,Grocery,19.06,1,0
+105,Appliances,49.74,1,0
+106,Grocery,1.71,0,0
+107,Seasonal,23.92,1,0
+108,Kirkland Signature,18.94,1,1
+109,Appliances,22.06,1,0
+110,Clothing,23.27,1,1
+111,Clothing,22.0,1,0
+112,Grocery,41.38,0,0
+113,Furniture,47.47,1,0
+114,Kirkland Signature,21.41,0,0
+115,Home,48.76,1,0
+116,Seasonal,29.81,1,0
+117,Home,23.83,1,0
+118,Electronics,46.81,1,0
+119,Electronics,7.21,0,0
+120,Kirkland Signature,19.07,1,1
+121,Electronics,4.56,1,0
+122,Clothing,17.44,1,0
+123,Electronics,8.77,1,0
+124,Furniture,36.62,0,0
+125,Appliances,22.53,1,0
+126,Grocery,28.72,1,0
+127,Electronics,28.54,1,0
+128,Grocery,32.32,1,1
+129,Electronics,2.62,1,0
+130,Seasonal,9.32,0,0
+131,Electronics,41.71,1,0
+132,Home,37.69,1,0
+133,Clothing,20.51,1,0
+134,Electronics,10.22,0,0
+135,Home,13.91,1,1
+136,Furniture,34.64,0,0
+137,Clothing,34.52,1,0
+138,Clothing,10.49,1,0
+139,Seasonal,44.71,1,0
+140,Appliances,1.17,1,0
+141,Kirkland Signature,12.42,1,0
+142,Home,47.59,0,0
+143,Seasonal,27.86,1,0
+144,Appliances,43.56,0,0
+145,Appliances,25.98,0,1
+146,Clothing,33.27,1,0
+147,Grocery,9.27,1,1
+148,Kirkland Signature,38.82,1,0
+149,Grocery,38.74,0,0
+150,Home,41.44,0,0
+151,Seasonal,33.77,1,0
+152,Home,11.0,1,0
+153,Clothing,26.49,0,0
+154,Electronics,44.14,0,0
+155,Home,20.08,0,0
+156,Grocery,41.13,0,0
+157,Furniture,13.88,1,0
+158,Kirkland Signature,17.94,0,0
+159,Kirkland Signature,45.56,0,0
+160,Appliances,46.01,1,0
+161,Home,43.89,0,0
+162,Electronics,18.39,0,0
+163,Home,47.26,1,0
+164,Furniture,14.42,1,0
+165,Furniture,7.5,0,1
+166,Clothing,13.55,0,0
+167,Appliances,31.04,1,0
+168,Kirkland Signature,22.41,0,1
+169,Electronics,38.25,1,0
+170,Grocery,46.26,1,0
+171,Grocery,36.23,1,0
+172,Clothing,9.23,0,0
+173,Appliances,27.27,1,1
+174,Kirkland Signature,30.99,1,0
+175,Home,47.56,1,0
+176,Appliances,44.32,1,0
+177,Appliances,10.02,1,0
+178,Appliances,49.75,0,0
+179,Grocery,48.99,1,0
+180,Appliances,27.12,1,0
+181,Kirkland Signature,0.88,1,0
+182,Furniture,11.57,1,0
+183,Electronics,8.42,0,0
+184,Grocery,27.6,1,0
+185,Clothing,14.86,1,0
+186,Appliances,24.48,1,0
+187,Kirkland Signature,33.9,1,0
+188,Home,47.69,1,0
+189,Electronics,37.99,0,0
+190,Appliances,18.9,0,0
+191,Kirkland Signature,0.66,0,0
+192,Home,23.27,1,0
+193,Home,4.61,1,0
+194,Appliances,45.32,0,0
+195,Appliances,36.57,1,0
+196,Electronics,20.73,1,0
+197,Kirkland Signature,24.68,1,0
+198,Home,32.16,1,0
+199,Seasonal,28.69,1,0
+200,Appliances,38.44,1,0
+201,Grocery,20.02,1,1
+202,Appliances,7.87,1,0
+203,Home,35.23,0,1
+204,Electronics,5.51,1,0
+205,Furniture,27.4,0,0
+206,Seasonal,2.89,1,1
+207,Seasonal,21.86,1,1
+208,Appliances,26.51,1,0
+209,Appliances,40.58,1,0
+210,Clothing,29.47,1,0
+211,Appliances,29.79,1,0
+212,Appliances,5.83,1,0
+213,Electronics,35.03,1,0
+214,Grocery,40.15,0,0
+215,Seasonal,23.54,1,0
+216,Kirkland Signature,34.05,0,0
+217,Clothing,11.64,0,0
+218,Electronics,15.29,1,0
+219,Appliances,32.61,1,0
+220,Grocery,29.26,1,0
+221,Clothing,24.15,1,0
+222,Home,37.39,1,0
+223,Kirkland Signature,34.04,1,0
+224,Grocery,15.98,0,1
+225,Grocery,36.6,1,0
+226,Grocery,49.46,0,1
+227,Appliances,35.05,1,0
+228,Electronics,11.15,0,0
+229,Grocery,45.26,1,0
+230,Clothing,8.06,1,1
+231,Grocery,4.74,1,0
+232,Kirkland Signature,42.12,0,0
+233,Electronics,44.03,1,0
+234,Electronics,36.05,0,0
+235,Grocery,7.55,1,0
+236,Grocery,45.99,1,0
+237,Electronics,2.14,1,0
+238,Appliances,28.51,0,0
+239,Appliances,14.93,0,0
+240,Electronics,4.56,0,1
+241,Furniture,31.26,1,0
+242,Seasonal,22.46,1,0
+243,Electronics,31.69,1,0
+244,Electronics,4.73,1,1
+245,Appliances,42.01,1,0
+246,Furniture,28.53,1,0
+247,Seasonal,35.14,0,0
+248,Home,12.8,0,1
+249,Furniture,43.89,1,0
+250,Furniture,23.97,1,0
+251,Grocery,40.05,0,0
+252,Kirkland Signature,26.98,1,0
+253,Appliances,29.7,1,0
+254,Home,5.78,0,0
+255,Furniture,20.34,0,0
+256,Grocery,41.82,1,0
+257,Clothing,16.16,1,0
+258,Electronics,25.77,1,0
+259,Furniture,28.63,1,1
+260,Kirkland Signature,26.54,1,1
+261,Home,4.79,1,0
+262,Home,36.24,1,0
+263,Electronics,21.44,1,0
+264,Home,25.45,1,0
+265,Home,19.94,1,0
+266,Home,35.88,0,0
+267,Furniture,12.66,1,0
+268,Furniture,47.16,1,0
+269,Clothing,36.63,1,0
+270,Clothing,30.46,1,0
+271,Grocery,3.01,1,0
+272,Clothing,14.33,0,1
+273,Appliances,3.42,1,0
+274,Clothing,8.85,1,0
+275,Appliances,25.44,1,0
+276,Electronics,9.69,1,1
+277,Grocery,34.36,1,0
+278,Electronics,2.25,0,0
+279,Home,17.04,1,0
+280,Clothing,1.42,1,0
+281,Furniture,26.23,1,0
+282,Kirkland Signature,27.83,1,1
+283,Appliances,17.98,1,0
+284,Furniture,14.44,1,0
+285,Grocery,15.55,0,0
+286,Clothing,42.11,1,1
+287,Kirkland Signature,27.9,1,0
+288,Home,3.81,1,0
+289,Appliances,35.16,0,0
+290,Kirkland Signature,15.88,1,0
+291,Electronics,35.35,0,0
+292,Home,5.44,1,1
+293,Seasonal,27.83,1,0
+294,Kirkland Signature,43.06,0,0
+295,Grocery,29.72,1,0
+296,Seasonal,41.29,1,1
+297,Clothing,17.59,1,0
+298,Appliances,10.46,0,0
+299,Furniture,25.88,0,0
+300,Appliances,3.55,1,0
+301,Appliances,42.76,0,0
+302,Clothing,38.34,1,0
+303,Kirkland Signature,30.7,1,0
+304,Grocery,46.26,1,0
+305,Kirkland Signature,24.22,0,0
+306,Electronics,14.12,1,0
+307,Furniture,8.1,1,0
+308,Home,3.46,1,1
+309,Kirkland Signature,19.76,0,0
+310,Electronics,21.3,1,1
+311,Appliances,43.6,1,0
+312,Electronics,18.96,1,0
+313,Seasonal,32.91,0,0
+314,Appliances,6.02,1,1
+315,Seasonal,42.27,0,0
+316,Grocery,30.27,1,0
+317,Grocery,16.69,1,0
+318,Furniture,8.03,1,1
+319,Seasonal,6.28,0,0
+320,Grocery,24.75,1,0
+321,Appliances,44.5,0,0
+322,Home,33.89,1,0
+323,Home,49.17,1,0
+324,Appliances,18.98,1,1
+325,Grocery,25.47,1,1
+326,Appliances,10.93,1,0
+327,Grocery,6.55,1,0
+328,Clothing,11.68,0,0
+329,Furniture,27.74,0,0
+330,Home,36.44,0,0
+331,Appliances,19.88,0,1
+332,Home,3.02,1,0
+333,Grocery,41.02,0,1
+334,Home,39.17,1,0
+335,Electronics,27.76,1,0
+336,Appliances,17.31,0,1
+337,Kirkland Signature,36.53,0,0
+338,Furniture,24.4,0,0
+339,Clothing,27.03,0,1
+340,Home,28.04,0,0
+341,Kirkland Signature,12.89,0,0
+342,Seasonal,46.36,1,0
+343,Appliances,32.3,1,0
+344,Seasonal,33.2,1,0
+345,Furniture,48.06,1,0
+346,Grocery,7.34,1,0
+347,Seasonal,7.44,1,0
+348,Kirkland Signature,24.29,1,0
+349,Grocery,41.23,0,1
+350,Clothing,18.28,1,0
+351,Furniture,15.81,0,0
+352,Appliances,31.5,1,0
+353,Appliances,49.05,0,1
+354,Grocery,33.86,1,1
+355,Clothing,10.21,1,1
+356,Kirkland Signature,8.0,1,0
+357,Electronics,9.06,1,1
+358,Electronics,28.59,1,0
+359,Grocery,4.32,1,0
+360,Kirkland Signature,31.17,1,1
+361,Clothing,45.87,0,0
+362,Seasonal,16.69,1,0
+363,Clothing,36.89,1,0
+364,Grocery,4.04,1,0
+365,Appliances,47.27,1,0
+366,Clothing,21.61,1,0
+367,Electronics,29.8,1,0
+368,Kirkland Signature,44.1,1,1
+369,Kirkland Signature,47.29,0,0
+370,Electronics,6.88,1,1
+371,Appliances,16.54,0,0
+372,Furniture,24.07,1,0
+373,Furniture,14.32,1,0
+374,Appliances,1.57,1,0
+375,Clothing,6.95,1,0
+376,Kirkland Signature,43.01,1,0
+377,Furniture,45.27,1,0
+378,Appliances,25.84,1,0
+379,Appliances,31.93,1,0
+380,Kirkland Signature,29.55,1,1
+381,Electronics,32.5,0,0
+382,Grocery,40.52,0,0
+383,Kirkland Signature,48.09,1,1
+384,Kirkland Signature,9.46,1,0
+385,Seasonal,45.56,1,0
+386,Electronics,22.26,1,1
+387,Grocery,18.07,1,0
+388,Appliances,0.9,1,0
+389,Electronics,44.15,0,0
+390,Kirkland Signature,48.92,1,0
+391,Appliances,46.89,1,0
+392,Seasonal,34.03,0,0
+393,Furniture,35.36,1,0
+394,Seasonal,44.72,0,0
+395,Electronics,17.73,0,0
+396,Seasonal,19.27,1,0
+397,Home,30.13,1,0
+398,Electronics,10.03,0,1
+399,Grocery,40.86,0,0
+400,Clothing,33.43,1,1
+401,Kirkland Signature,31.87,1,0
+402,Electronics,37.71,1,0
+403,Appliances,24.29,0,0
+404,Electronics,16.15,1,1
+405,Electronics,11.13,1,0
+406,Seasonal,33.04,1,0
+407,Grocery,24.84,0,0
+408,Appliances,36.48,1,0
+409,Seasonal,38.82,1,0
+410,Seasonal,48.36,0,0
+411,Kirkland Signature,47.73,1,0
+412,Electronics,41.65,1,0
+413,Home,19.09,1,0
+414,Furniture,47.66,1,0
+415,Electronics,29.11,0,0
+416,Kirkland Signature,7.5,1,0
+417,Furniture,41.39,1,0
+418,Seasonal,7.66,1,0
+419,Seasonal,36.37,1,0
+420,Furniture,43.33,1,0
+421,Electronics,27.33,1,0
+422,Home,24.42,1,0
+423,Clothing,49.3,1,0
+424,Home,13.91,1,0
+425,Grocery,7.48,1,0
+426,Kirkland Signature,3.43,0,0
+427,Home,28.48,1,0
+428,Electronics,5.19,0,0
+429,Appliances,11.39,1,0
+430,Kirkland Signature,26.66,1,1
+431,Furniture,0.58,1,0
+432,Home,12.68,1,0
+433,Seasonal,2.27,1,0
+434,Clothing,41.49,1,0
+435,Electronics,1.04,1,0
+436,Seasonal,19.68,0,0
+437,Seasonal,8.71,1,0
+438,Furniture,49.87,1,0
+439,Grocery,29.05,1,0
+440,Electronics,9.71,1,0
+441,Clothing,1.62,1,0
+442,Kirkland Signature,24.98,1,1
+443,Home,43.38,1,0
+444,Kirkland Signature,9.27,1,0
+445,Kirkland Signature,40.19,0,0
+446,Home,41.16,1,0
+447,Grocery,23.41,1,0
+448,Clothing,41.96,1,1
+449,Grocery,22.0,0,0
+450,Furniture,41.1,1,0
+451,Furniture,9.2,0,0
+452,Appliances,40.62,0,0
+453,Electronics,33.74,1,0
+454,Clothing,1.39,0,1
+455,Appliances,1.63,1,0
+456,Home,45.6,1,0
+457,Grocery,41.26,1,0
+458,Seasonal,23.91,1,0
+459,Appliances,5.33,1,0
+460,Appliances,43.49,1,0
+461,Furniture,36.32,1,0
+462,Home,38.59,1,0
+463,Seasonal,23.29,0,0
+464,Seasonal,12.95,1,0
+465,Appliances,13.09,0,0
+466,Home,18.27,0,0
+467,Grocery,31.03,0,0
+468,Grocery,39.03,1,0
+469,Clothing,28.28,1,0
+470,Furniture,3.83,1,1
+471,Appliances,3.36,0,1
+472,Furniture,14.44,1,0
+473,Clothing,33.53,1,0
+474,Kirkland Signature,7.04,1,1
+475,Clothing,38.8,1,0
+476,Kirkland Signature,7.22,1,0
+477,Grocery,29.41,1,0
+478,Seasonal,20.87,1,0
+479,Furniture,24.97,0,0
+480,Seasonal,26.74,1,1
+481,Clothing,42.92,1,0
+482,Seasonal,39.36,1,1
+483,Clothing,31.0,1,0
+484,Grocery,26.16,1,0
+485,Clothing,7.97,1,0
+486,Seasonal,3.25,0,0
+487,Electronics,31.1,1,0
+488,Home,4.1,1,0
+489,Kirkland Signature,47.32,1,1
+490,Grocery,37.01,1,0
+491,Appliances,35.05,1,0
+492,Electronics,11.97,1,0
+493,Appliances,46.01,0,1
+494,Kirkland Signature,28.33,1,0
+495,Furniture,47.0,1,0
+496,Kirkland Signature,21.17,1,0
+497,Kirkland Signature,15.72,0,0
+498,Appliances,26.65,1,1
+499,Kirkland Signature,16.41,1,0
+500,Seasonal,38.75,0,0

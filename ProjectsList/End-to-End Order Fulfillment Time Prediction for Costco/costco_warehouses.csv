@@ -1,0 +1,11 @@
+warehouse_id,region,capacity,staff_level
+1,Midwest,68860,Low
+2,Midwest,150358,High
+3,Midwest,119445,Low
+4,West,101919,Low
+5,Northeast,133060,Medium
+6,West,75519,Medium
+7,Midwest,190656,Medium
+8,West,125868,Low
+9,West,198601,Low
+10,Midwest,86016,High
