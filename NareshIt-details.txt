@@ -44,6 +44,8 @@ azure cogntive ai => https://www.youtube.com/watch?v=LgJwmkia27g&list=PLVlQHNRLf
 https://data-flair.training/blogs/data-science-interview-questions/
 openrouter.com= form new genai and ai related updates
 
+https://openrouter.ai/models == get all new model names in the market
+
 kill steps
 ============
 lsof -i :9002
