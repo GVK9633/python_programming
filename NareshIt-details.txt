@@ -43,8 +43,10 @@ ultralytics
 azure cogntive ai => https://www.youtube.com/watch?v=LgJwmkia27g&list=PLVlQHNRLflP8JthpjvJFaofUkJS1A7qa1
 https://data-flair.training/blogs/data-science-interview-questions/
 openrouter.com= form new genai and ai related updates
-
+duckduckgo
 https://openrouter.ai/models == get all new model names in the market
+
+https://github.com/kodigitaccount/MYSQL
 
 kill steps
 ============
