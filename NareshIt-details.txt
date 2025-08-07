@@ -48,6 +48,8 @@ https://openrouter.ai/models == get all new model names in the market
 
 https://github.com/kodigitaccount/MYSQL
 
+https://serper.dev
+
 kill steps
 ============
 lsof -i :9002
