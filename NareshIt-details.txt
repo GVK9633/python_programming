@@ -48,6 +48,8 @@ https://openrouter.ai/models == get all new model names in the market
 
 https://github.com/kodigitaccount/MYSQL
 
+aug-8-2025 = https://github.com/kodigitaccount/AGENTIC_AI/tree/main
+
 https://serper.dev
 
 kill steps
