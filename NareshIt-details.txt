@@ -63,3 +63,8 @@ kill -9 12345
 
 netstat -ano | findstr :9002
 
+https://www.geeksforgeeks.org/python/python-exercises-practice-questions-and-solutions/
+https://www.geeksforgeeks.org/python/how-to-learn-python-from-scratch/
+
+https://www.geeksforgeeks.org/python/python-string-exercise/
+
