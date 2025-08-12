@@ -1,0 +1,81 @@
+^^^ MCP WORKSHOP @ 6th Apr @ 10 AM
+^^^ Live Youtube == https://www.youtube.com/watch?v=6Ll5uB8VQto
+====
+m -- model ( llm model ( chatgpt, claud, gemin, deepseek, xai, grok, mistral-----
+
+c - contex ( context ( chat history, feedback 
+
+p - set up rule to book weekend trip
+
+llm - brian ( massive text data (shool, college, frend, news etc
+
+agentic ai -- weekend trip ( agent will book the ticket )
+		price 
+		flight
+		compare price
+	
+mcp - wiring system which connect llm - agent 
+mcp connect local server and also remote server 
+
+==== antrophic compnay which create llm 
+
+claude ( desktop)
+---
+lets starts work -->
+---
+claude desktop - we installed in our local machine 
+chatgpt -- web
+
+install antorpic claud desktop which ( claude 3.7 sonnet) 
+
+
+no llm model can answer me that what is the location where hi & hello text file are created
+
+
+1st step --> Install claud desktop
+2nd step --> create folder in c:\mcp 
+3rd step --> create 2 text file name ( hi.txt & hello.txt)
+4th step --> no llm model can intearc to my local syste folder 
+
+there is thing called mcp server 
+
+5th step --> google - mcp --> open the file 
+
+got error 
+
+do not give paht in space _, not followed 
+
+
+c:\mcp
+
+space _ other charam this will throught an error 
+
+path neet and clean 
+
+vs code - code editor 
+agentic ai code editor - cursor 
+
+earlier we build llm model using google colab.
+	also vs code 
+	
+cursor ai -- VIBE CODEING
+VIBE CODING ( 
+
+
+cline - autonomus ai agents
+
+install vs code -- 
+google - vsco
+
+if your like, comments share this video to you office 
+
+
+likes 
+comments
+share your friends
+
+new batch -- 7th apr @ 5:30pmIST batch onwards 
+
+
+
+
