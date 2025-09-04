@@ -69,3 +69,8 @@ https://www.geeksforgeeks.org/python/how-to-learn-python-from-scratch/
 https://www.geeksforgeeks.org/python/python-string-exercise/
 https://github.com/modelcontextprotocol/servers
 
+AI-tools
+=========
+notebookllm
+gogole ai studio
+napkin
